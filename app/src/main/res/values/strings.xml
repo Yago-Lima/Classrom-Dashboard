@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade_12_04_2025</string>
+    <string name="nome">Nome:</string>
+    <string name="fulano">Fulano</string>
+    <string name="idade">Idade:</string>
+    <string name="_0">0</string>
+    <string name="media_nota">Media Nota:</string>
+    <string name="detalhamento_do_aluno">Detalhamento do Aluno</string>
+    <string name="situa_o">Situação:</string>
+    <string name="media_presenca">Media Presenca</string>
+    <string name="lista_de_alunos">Lista de Alunos</string>
+    <string name="estatisticas">Estatisticas</string>
+</resources>
